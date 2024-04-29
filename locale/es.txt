@@ -1,0 +1,13 @@
+#: locale=es
+
+## Media
+
+### Título
+model_20CBEB68_2A11_799F_41BB_605BE997FBB2.label = untitled
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 6
